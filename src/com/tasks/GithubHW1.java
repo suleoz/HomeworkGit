@@ -8,7 +8,8 @@ public class GithubHW1 {
 		
 		for(int i=1;i<=100;i++) {
 			
-			System.out.print(i+" ");
+			if (i%2!=0) {
+			System.out.print(i+" ");}
 		}
 			
 	}
