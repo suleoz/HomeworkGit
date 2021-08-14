@@ -6,7 +6,7 @@ public class GithubHW1 {
 		
 		
 		
-		for(int i=1;i<11;i++) {
+		for(int i=1;i<=100;i++) {
 			
 			System.out.print(i+" ");
 		}
